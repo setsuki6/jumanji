@@ -1,0 +1,21 @@
+
+<link rel="stylesheet" type="text/css" href="js/layerboard/css/layerBoard.css" media="all" />
+
+<script src="js/layerboard/js/cookie.js"></script>
+<script src="js/lyrebird/js/jquery.layerBoard.js"></script>
+
+
+<!-- layer_board -->
+<div id="layer_board_area">
+	<div class="layer_board_bg"></div>
+	<div class="layer_board">
+       <h3>タイトル</h3>
+        <iframe width="幅" height="高さ" src="URL" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+		<p class="btn_close"><a href="#"><img src="js/layerboard/img/bnt_close.png" alt="close" width="63" height="12" /></a></p>
+	</div>
+</div>
+<!-- //layer_board -->
+
+
+	
+<p class="layer_board_btn"><a href="#">もう一度開く</a></p>
